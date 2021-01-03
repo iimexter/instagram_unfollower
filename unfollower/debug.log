@@ -1,0 +1,15 @@
+[0103/132848.092:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/133121.442:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0103/133121.443:ERROR:exception_snapshot_win.cc(99)] thread ID 5828 not found in process
+[0103/133121.514:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0103/133121.514:ERROR:exception_snapshot_win.cc(99)] thread ID 3600 not found in process
+[0103/133121.572:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0103/133121.572:ERROR:exception_snapshot_win.cc(99)] thread ID 3340 not found in process
+[0103/133121.626:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0103/133121.627:ERROR:exception_snapshot_win.cc(99)] thread ID 5076 not found in process
+[0103/140553.279:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0103/140553.281:ERROR:exception_snapshot_win.cc(99)] thread ID 6568 not found in process
+[0103/140553.425:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0103/140553.425:ERROR:exception_snapshot_win.cc(99)] thread ID 5312 not found in process
+[0103/140553.494:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0103/140553.494:ERROR:exception_snapshot_win.cc(99)] thread ID 5360 not found in process
